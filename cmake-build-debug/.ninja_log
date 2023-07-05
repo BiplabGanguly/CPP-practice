@@ -1,0 +1,6 @@
+# ninja log v5
+1	1025	7062262110426712	CMakeFiles/C__.dir/main.cpp.obj	d23e9af0faf071e8
+1066	1339	7062262113518447	C__.exe	6c852c8ccc104139
+8	3676	7062264611231097	CMakeFiles/C__.dir/Basic_Program/TestC++/test.cpp.obj	5a96da37cee741fc
+9	2985	7062265961218318	CMakeFiles/C__.dir/Basic_Program/TestC++/text.cpp.obj	27541226745a681f
+8	3081	7062266828429663	CMakeFiles/C__.dir/justTest.cpp.obj	73b78354ae6d04d3
